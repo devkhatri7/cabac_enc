@@ -1,0 +1,81 @@
+# vsim -c cabac_enc.tb_cabac_enc 
+# Start time: 15:17:38 on Nov 17,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading std.env(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading uvvm_util.types_pkg(body)
+# Loading uvvm_util.adaptations_pkg(body)
+# Loading ieee.math_real(body)
+# Loading uvvm_util.string_methods_pkg(body)
+# Loading uvvm_util.protected_types_pkg(body)
+# Loading uvvm_util.global_signals_and_shared_variables_pkg
+# Loading uvvm_util.hierarchy_linked_list_pkg(body)
+# Loading uvvm_util.license_pkg(body)
+# Loading uvvm_util.alert_hierarchy_pkg(body)
+# Loading uvvm_util.methods_pkg(body)
+# ** Note: 
+# 
+# 
+# *****************************************************************************************************
+#  This is a *** LICENSED PRODUCT *** as given in the LICENSE.TXT in the root directory.
+# *****************************************************************************************************
+# 
+# 
+#    Time: 0 ps  Iteration: 0  Region: /methods_pkg File: ../../lib/UVVM/uvvm_util/src/methods_pkg.vhd
+# ** Note: 
+# 
+# =====================================================================================================
+# =====================================================================================================
+# This info section may be turned off via C_SHOW_UVVM_UTILITY_LIBRARY_INFO in adaptations_pkg.vhd
+# 
+# Important Simulator setup: 
+# - Set simulator to break on severity 'FAILURE' 
+# - Set simulator transcript to a monospace font (e.g. Courier new)
+# 
+# UVVM Utility Library setup:
+# - It is recommended to go through the two powerpoint presentations provided with the download
+# - There is a Quick-Reference in the doc-directory
+# - In order to change layout or behaviour - please check the src*/adaptations_pkg.vhd
+#   This is intended for personal or company customization
+# 
+# License conditions are given in LICENSE.TXT
+# =====================================================================================================
+# =====================================================================================================
+# 
+# 
+#    Time: 0 ps  Iteration: 0  Region: /methods_pkg File: ../../lib/UVVM/uvvm_util/src/methods_pkg.vhd
+# Loading uvvm_util.bfm_common_pkg(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading cabac_enc.cabac_enc_pkg(body)
+# Loading cabac_enc.tb_cabac_enc(struct)
+# Loading synopsys.attributes
+# Loading ieee.std_logic_misc(body)
+# Loading cabac_enc.cabac_enc(struct)
+# ** Warning: Design size of 10460 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# UVVM: 
+# UVVM: 
+# UVVM: ID_LOG_HDR                         0.0 ns  TB seq.                        Start Simulation --- tb_cabac_enc ---
+# UVVM: -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# UVVM: ID_SEQUENCER_SUB                1320.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                1410.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                1410.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                1810.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                1810.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2050.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                2050.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2110.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                2110.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2160.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                2160.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2280.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                2280.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2390.0 ns  TB seq.                        Storing output
+# UVVM: ID_SEQUENCER_SUB                2390.0 ns  TB seq.                        Sending input
+# UVVM: ID_SEQUENCER_SUB                2510.0 ns  TB seq.                        Storing output
+# End time: 15:17:43 on Nov 17,2018, Elapsed time: 0:00:05
+# Errors: 0, Warnings: 1
